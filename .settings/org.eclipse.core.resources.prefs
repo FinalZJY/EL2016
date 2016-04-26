@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+encoding//src/Battleax/BattleaxAi.java=UTF-8
+encoding//src/Battleax/GradingActions.java=UTF-8
+encoding//src/Battleax/SimulateActions.java=UTF-8
+encoding//src/EZ/AiMain.java=UTF-8
+encoding//src/EZ/Battleax.java=UTF-8
+encoding//src/EZ/GameIniInformation.java=UTF-8
+encoding//src/EZ/Home.java=UTF-8
+encoding//src/EZ/InformationReceive.java=UTF-8
+encoding//src/EZ/Samurai.java=UTF-8
+encoding//src/EZ/Spear.java=UTF-8
+encoding//src/EZ/Sword.java=UTF-8
+encoding//src/EZ/Test.java=UTF-8
+encoding//src/EZ/TurnInformation.java=UTF-8
+encoding//src/EZ/TurnInformationReceive.java=UTF-8
+encoding/<project>=UTF-8
+separateDerivedEncodings=true
