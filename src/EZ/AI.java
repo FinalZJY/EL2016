@@ -133,7 +133,7 @@ public class AI {
 		if(leftPoint<1){
 			return false;
 		}
-		if(TurnInformation.battleField[me.row][me.col]<=2){  //1.2版修改的部分
+		if(TurnInformation.battleField[me.row][me.col]<=2 && !existEnemy(me.row,me.col)){  //1.2.1版修改的部分
 			actions=actions+" 9";
 			leftPoint=leftPoint-1;
 			return true;
